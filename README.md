@@ -26,3 +26,5 @@ This Repository contains the list of Games developed in C++:
 
 #Enhancements that I could have thought of
 1. Usage of Design Pattern, that better maintains the class structuring.
+2. Better naming conventions for variables and methods
+3. Better code refactoring, that makes optimal Cohersion and Coupling factor.
