@@ -25,7 +25,7 @@ This Repository contains the list of Games developed in C++:
 2. Enhance the Game by developing Chess-Game, by using Run-time Polymorphism, a concept in OOPS with in a time period of 3 days. I gave more importance to the control flow diagrams and refactoring and class structures than the amount of time I spent on coding, and without which I could not have developed Chess game in 3 days. 
 3. Intiated Pair-Programming with the help of Sri kanth, (In Collaborators list)
 4. User can select the Game of choice from Help menu and play the game he likes.
-5. I wrote 6000 lines of code in C++ which is very reliable, where I have used most of the OOPS concepts like pure virtual functions, overriding, abstract classes, abstract methods, final keywords, inheritance, polymorphism, pointers,.. 
+5. In total we wrote 6000 lines of code in C++ which is very reliable, where OOPS concepts like pure virtual functions, overriding, abstract classes, abstract methods, final keywords, inheritance, polymorphism, pointers,.. were used
 
 #Enhancements that I could have thought of
 1. Usage of Design Pattern, that better maintains the class structuring.
