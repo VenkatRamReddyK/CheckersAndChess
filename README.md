@@ -57,4 +57,4 @@ This Repository contains the list of Games developed in C++:
 4. For checkers, reduce the time complexity and control flow using memorization technique in dynamic programming, which I did later in my masters for Jumper Game.
 5. Better User Interface (GUI) would have attracted more customers, which has been overcome in 3rd year of my Bachelors, where I developed "Chess Game" in Java using Swings with a portable GUI, which has mouse events.
 6. Feature like life moves, "pawn-promotion with user choice of selecting which promotion should happen" are not handled here, which are handled in "Easy Chess", currently in Windows Market Place 
-7. Few corner cases for Check and checkmate are not handled, which are handled in "Easy Chess", currently in Windows Market Place 
+7. Few corner cases for Check and checkmate are not handled, which are handled in "Easy Chess", currently in Windows Market Place. Windows Phone Market Place Link: http://bit.ly/1Pjjyee
