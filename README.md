@@ -9,8 +9,9 @@ This Repository contains the list of Games developed in C++:
 - Date and Time Statistics: August/2008 - Feb/2009 (Almost 6 Months)
 - Year of Study           : 2nd Year of My Bachelors
 - Development Environment : C++
-- Purpose                 : 1. Understanding OOPS Principles in a Pragmatic Approach. 
-                            2. Use SDLC to plan and track the project progress
+- Purpose                 : 
+    1. Understanding OOPS Principles in a Pragmatic Approach. 
+    2. Use SDLC to plan and track the project progress
                             
 
 #Details:
